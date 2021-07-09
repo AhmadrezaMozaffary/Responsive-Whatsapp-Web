@@ -202,7 +202,7 @@ svg:hover {
   border: 2px solid var(--status-off);
 }
 
-@media screen and (min-width: 426px) {
+@media screen and (min-width: 769px) {
   #right-status {
     display: block;
   }
